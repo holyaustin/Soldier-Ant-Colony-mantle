@@ -134,8 +134,8 @@ const App = () => {
 
   const checkNetwork = async () => {
     try {
-      if (window.ethereum.networkVersion !== "9000") {
-        alert("Please connect to EVMOS Testnet!");
+      if (window.ethereum.networkVersion !== "5001") {
+        alert("Please connect to Mantle Testnet Blockchain! \n You can add it to your Metamask using \n https://chainlist.org/chain/5001");
         navigate("/");
       }
     } catch (error) {

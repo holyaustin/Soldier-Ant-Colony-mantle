@@ -24,12 +24,12 @@ const Navbar = () => {
         <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
         <Link to="/create">Collaborate</Link>
         <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-        <Link to="/NFTdashboard">NFT-Dashboard</Link>
+        <Link to="/">Buy Ant Token</Link>
         <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
         <li className="justify-center text-black font-semibold bg-green-300 py-5 px-20 mx-8 sm:mx-3 sm:py-2 sm:px-8 rounded-full cursor-pointer hover:bg-green-800 hover:text-white ">
-          <a href="https://app.diffusion.fi/#/swap" target="_blank" rel="noreferrer">
-            Swap / Buy EVMOS Tokens Here
+          <a href="https://bridge.testnet.mantle.xyz/" target="_blank" rel="noreferrer">
+            Bridge Tokens Here
           </a>
         </li>
 

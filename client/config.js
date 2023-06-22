@@ -1,3 +1,3 @@
 
-export const epicGameAddress = "0xe078fe7A93017F8e18c1C52E79632d0B94c56c26";
+export const epicGameAddress = "0x3f114ab8b72d0e075bA3418F1Ea0d6D6d9699ED7";
 

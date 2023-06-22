@@ -10,20 +10,20 @@ module.exports = {
    
     // for testnet
     testnet: {
-      url: "https://eth.bd.evmos.dev:8545",
+      url: "https://rpc.testnet.mantle.xyz/",
       accounts: [process.env.PRIVATE_KEY],
       // allowUnlimitedContractSize: true
     },
 
-        // for mainnet
-        'optimism': {
-          url: "https://eth.bd.evmos.org:8545",
-          accounts: [process.env.PRIVATE_KEY],
-        },
+    mantle: {
+      url: "https://rpc.testnet.mantle.xyz/", 
+      chainId: 5001,
+      accounts: [process.env.PRIVATE_KEY],
+    },
 
   },
   solidity: {
-    version: "0.8.9",
+    version: "0.8.17",
     settings: {
       optimizer: {
         enabled: true,
