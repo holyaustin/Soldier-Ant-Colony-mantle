@@ -2,6 +2,8 @@
 
 ## An epic web3 game that mimics the bio-inspration of soldier-ant for food hunt. Players finds it easy to play and earn as well as collaborating to create game characters and sell in the game marketplace
 
+Mantle Tweet: https://twitter.com/holyaustin/status/1671946120338046980
+
 ## Introduction
 
 This project was built as part of the HD Games 2023 Hackathon. The project is submitted as a DoraHack HD Games submission, NFT and Gaming Track project. Soldier Ant Colony Mantle.
